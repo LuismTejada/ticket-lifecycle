@@ -22,31 +22,42 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
+- Working on the Issue
 - Resolution
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Let's start off with our third and Final lab on osTicket. If you click on this link http://localhost/osTicket/ this link will take you to the page where end users submit a ticket. As you can see in the picture the end users also have their own page. 
+ <p> 
+<img width="1280" alt="Screen Shot 2023-08-08 at 12 44 35 PM" src="https://github.com/LuismTejada/ticket-lifecycle/assets/140201562/32eef423-8294-4892-a01a-9aa534de9c82">
+ </p> 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+One of our customers, in this case Karen is creating a ticket. The help topic is "Business Critical Outage" because customers report that they cannot access mobile banking.
 </p>
+<br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img width="1280" alt="Screen Shot 2023-08-08 at 12 51 00 PM" src="https://github.com/LuismTejada/ticket-lifecycle/assets/140201562/513d1217-dbb2-4571-b4f2-643f1f41a322">
+</p>
+
+<p>
+As an agent, you will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assign proper SLAs. 
+
+  <img width="1280" alt="Screen Shot 2023-08-08 at 1 05 03 PM" src="https://github.com/LuismTejada/ticket-lifecycle/assets/140201562/c9d312d8-19c8-4a1e-9117-536bae85a3cb">
+
+In this case, we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can affect an entire portion of the business. We assign it to an agent and changed the SLA plan and assigned the ticket to a top-level technician and set the department to System Administrators. In some ticketing systems, customers can set their own SLA plans.
+
+<img width="1280" alt="Screen Shot 2023-08-08 at 1 13 59 PM" src="https://github.com/LuismTejada/ticket-lifecycle/assets/140201562/38c41652-ac8d-4157-901a-6e3efe9cbcf2">
+
+The next step is to open the ticket and resolve it. 
+
+<img width="1280" alt="Screen Shot 2023-08-08 at 1 29 14 PM" src="https://github.com/LuismTejada/ticket-lifecycle/assets/140201562/b475a816-a242-48c0-b587-dad0358b661f">
+
+To access this closed ticket is really simple just have to click on "Tickets" -> "Closed" and it should be there already resolve. 
+
+<img width="1280" alt="Screen Shot 2023-08-08 at 1 31 31 PM" src="https://github.com/LuismTejada/ticket-lifecycle/assets/140201562/3f7c2bfb-f4f0-4c18-8de5-4bbebc42c3e2">
+
 </p>
 <br />
